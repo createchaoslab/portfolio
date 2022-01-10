@@ -1,6 +1,7 @@
 *{box-sizing:border-box;scroll-behavior:smooth}
 body{font-family:'Space Grotesk',sans-serif}
 .container{max-width:1230px;padding:0 15px;margin:0 auto}
+img{max-width: 100%;height: auto;width: auto;max-height: 100%;}
 a{text-decoration:none;color:inherit}
 ul,li{padding:0;list-style:none}
 section{margin:30px 0}
